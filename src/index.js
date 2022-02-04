@@ -7,8 +7,8 @@ import App from './App';
 const StrictApp = () => (
   <React.StrictMode>
     <HashRouter>
-      <App /> 
-    </HashRouter> 
+      <App />
+    </HashRouter>
   </React.StrictMode>
 );
 
