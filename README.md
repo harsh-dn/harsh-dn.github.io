@@ -1,5 +1,7 @@
 # Personal Website
 
+Special Thanks to MICHAEL D'ANGELO
+
 My personal website. A simple, easily modifiable, statically-exportable React application that deploys automatically for free using github pages. Built using modern javascript, based on create-react-app with React-Router, SCSS, github actions, and many other useful technologies.
 
 ## Adapting this Project
@@ -52,4 +54,4 @@ To statically export the site without deploying to github pages, delete or disab
 ## Acknowledgements
 
 * Template based on [Future Imperfect](https://html5up.net/future-imperfect) by [@ajlkn](https://github.com/ajlkn) for [HTML5 UP](html5up.net).
-* Special thanks to [@typpo](https://github.com/Grumpyyash) for tirelessly answering all of my node.js and react questions.
+* Special thanks to [@yash](https://github.com/Grumpyyash) for tirelessly answering all of my node.js and react questions.
