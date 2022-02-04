@@ -1,11 +1,14 @@
 import React from 'react';
 import { hydrate, render } from 'react-dom';
+import { HashRouter } from 'react-router-dom';
 import App from './App';
 
 // See https://reactjs.org/docs/strict-mode.html
 const StrictApp = () => (
   <React.StrictMode>
-    <App />
+    <HashRouter>
+      <App /> 
+    </HashRouter> 
   </React.StrictMode>
 );
 
