@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/harsh-dn.github.io/static/css/main.adbd3292.chunk.css",
+    "main.js": "/harsh-dn.github.io/static/js/main.e885e621.chunk.js",
+    "main.js.map": "/harsh-dn.github.io/static/js/main.e885e621.chunk.js.map",
+    "runtime-main.js": "/harsh-dn.github.io/static/js/runtime-main.f566367e.js",
+    "runtime-main.js.map": "/harsh-dn.github.io/static/js/runtime-main.f566367e.js.map",
+    "static/js/2.cc3f92de.chunk.js": "/harsh-dn.github.io/static/js/2.cc3f92de.chunk.js",
+    "static/js/2.cc3f92de.chunk.js.map": "/harsh-dn.github.io/static/js/2.cc3f92de.chunk.js.map",
+    "static/js/3.c9a9d0e5.chunk.js": "/harsh-dn.github.io/static/js/3.c9a9d0e5.chunk.js",
+    "static/js/3.c9a9d0e5.chunk.js.map": "/harsh-dn.github.io/static/js/3.c9a9d0e5.chunk.js.map",
+    "static/js/4.1bd94d56.chunk.js": "/harsh-dn.github.io/static/js/4.1bd94d56.chunk.js",
+    "static/js/4.1bd94d56.chunk.js.map": "/harsh-dn.github.io/static/js/4.1bd94d56.chunk.js.map",
+    "static/js/5.ad538d05.chunk.js": "/harsh-dn.github.io/static/js/5.ad538d05.chunk.js",
+    "static/js/5.ad538d05.chunk.js.map": "/harsh-dn.github.io/static/js/5.ad538d05.chunk.js.map",
+    "static/js/6.7cf858d7.chunk.js": "/harsh-dn.github.io/static/js/6.7cf858d7.chunk.js",
+    "static/js/6.7cf858d7.chunk.js.map": "/harsh-dn.github.io/static/js/6.7cf858d7.chunk.js.map",
+    "static/js/7.ce61a828.chunk.js": "/harsh-dn.github.io/static/js/7.ce61a828.chunk.js",
+    "static/js/7.ce61a828.chunk.js.map": "/harsh-dn.github.io/static/js/7.ce61a828.chunk.js.map",
+    "static/js/8.1dc2980c.chunk.js": "/harsh-dn.github.io/static/js/8.1dc2980c.chunk.js",
+    "static/js/8.1dc2980c.chunk.js.map": "/harsh-dn.github.io/static/js/8.1dc2980c.chunk.js.map",
+    "static/js/9.a879fe34.chunk.js": "/harsh-dn.github.io/static/js/9.a879fe34.chunk.js",
+    "static/js/9.a879fe34.chunk.js.map": "/harsh-dn.github.io/static/js/9.a879fe34.chunk.js.map",
+    "static/js/10.40ab4561.chunk.js": "/harsh-dn.github.io/static/js/10.40ab4561.chunk.js",
+    "static/js/10.40ab4561.chunk.js.map": "/harsh-dn.github.io/static/js/10.40ab4561.chunk.js.map",
+    "static/js/11.b81894f7.chunk.js": "/harsh-dn.github.io/static/js/11.b81894f7.chunk.js",
+    "static/js/11.b81894f7.chunk.js.map": "/harsh-dn.github.io/static/js/11.b81894f7.chunk.js.map",
+    "static/js/12.f9d6dd6a.chunk.js": "/harsh-dn.github.io/static/js/12.f9d6dd6a.chunk.js",
+    "static/js/12.f9d6dd6a.chunk.js.map": "/harsh-dn.github.io/static/js/12.f9d6dd6a.chunk.js.map",
+    "index.html": "/harsh-dn.github.io/index.html",
+    "static/css/main.adbd3292.chunk.css.map": "/harsh-dn.github.io/static/css/main.adbd3292.chunk.css.map",
+    "static/js/2.cc3f92de.chunk.js.LICENSE.txt": "/harsh-dn.github.io/static/js/2.cc3f92de.chunk.js.LICENSE.txt",
+    "static/js/3.c9a9d0e5.chunk.js.LICENSE.txt": "/harsh-dn.github.io/static/js/3.c9a9d0e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f566367e.js",
+    "static/js/3.c9a9d0e5.chunk.js",
+    "static/css/main.adbd3292.chunk.css",
+    "static/js/main.e885e621.chunk.js"
+  ]
+}
